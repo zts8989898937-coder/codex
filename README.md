@@ -1,0 +1,2 @@
+# codex
+some ai slop
